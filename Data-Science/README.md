@@ -57,9 +57,9 @@
 - [Maths for data science masterclass -Udemy(Jose Portilla,Krista King)](https://www.udemy.com/share/107qEq/)
 - [Maths for data science -GFG(GeeksForGeeks)](https://www.geeksforgeeks.org/maths-for-data-science/)
   
-## Probabiliity
+## Probability
 
-- [Probability and stastics for data science -Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)
+- [Probability and statistics for data science -Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)
 - [Probability -Probability4datascience(Stanley H. Chan)](https://probability4datascience.com/ch02.html)
 - [Introduction to Probability(Joseph K. Blitzstein, Jessica Hwang)](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)
 
@@ -104,7 +104,7 @@
 - [ML full playlist -Youtube(Kimia Lab)](https://youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT)
 - [ML documentation GFG(GeeksForGeeks)](https://www.geeksforgeeks.org/machine-learning/)
 - [ML intro to machine learning course -Udacity(udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [ML with pythonn -Coursera(IBM)](https://www.coursera.org/learn/machine-learning-with-python)
+- [ML with python -Coursera(IBM)](https://www.coursera.org/learn/machine-learning-with-python)
   
 ## Power BI
 
